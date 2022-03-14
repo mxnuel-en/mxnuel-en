@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manuel Enweremchi
-- 👀 I’m interested in Web design/development and Python (Django) and Data Science
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning JAVASCRIPT to strengthen my skills
+// - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is via email on manuelenweremchi@gmail.com
 
 <!---
